@@ -1,6 +1,5 @@
 ### Hi there 👋
 #### 🔭 I’m currently working on Web Development and Data Structures & Algorithms
-#### ⚡ Fun fact: I am a Mechanical Engineer😄
 <!--
 **onkarlapate27/onkarlapate27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
