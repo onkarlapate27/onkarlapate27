@@ -1,5 +1,8 @@
 ### Hi there 👋
-#### 🔭 I’m currently working on Web Development and Data Structures & Algorithms
+#### 🔭 I’m currently working on Full stack projects
+#### 🌱 I’m currently learning React.js
+#### 💬 Ask me about Data Structures and Algorithms, I am well versed in them!
+
 <!--
 **onkarlapate27/onkarlapate27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
