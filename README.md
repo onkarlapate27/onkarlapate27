@@ -1,6 +1,5 @@
 ### Hi there 👋
-#### 🔭 I’m currently working on Full stack projects
-#### 🌱 I’m currently learning React.js
+#### 🔭 I’m currently working on Backend projects using Node and Express.
 #### 💬 Ask me about Data Structures and Algorithms, I am well versed in them!
 
 <!--
