@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🔭 I’m currently working on Backend projects using Node and Express.
+#### 🔭 I’m currently working on Web Dev projects using Python Flask, PostgreSQL and ReactJS.
 #### 💬 Ask me about Data Structures and Algorithms, I am well versed in them!
 
 <!--
