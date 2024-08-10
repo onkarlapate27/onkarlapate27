@@ -1,6 +1,9 @@
 ### Hi there 👋
-#### 🔭 I’m currently working on Web Dev projects using Python Flask, PostgreSQL and ReactJS.
-#### 💬 Ask me about Data Structures and Algorithms, I am well versed in them!
+#### 🔭 I’m currently working on Web Dev projects.
+#### 🚀 I have experience with FastAPI, MongoDB, Docker, AWS, Django, and Flask.
+#### 💻 I’m skilled in C++, Python, JavaScript, and well-versed in Data Structures and Algorithms.
+#### 💬 Ask me about building backend systems and enterprise projects!
+#### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/onkarlapate27/)
 
 <!--
 **onkarlapate27/onkarlapate27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
