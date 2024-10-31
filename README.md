@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### 🔭 I’m currently working on Web Dev projects.
-#### 🚀 I have experience with FastAPI, MongoDB, Docker, AWS, Django, and Flask.
+#### 🚀 I have experience with Django, PostgreSQL and DRF.
 #### 💻 I’m skilled in C++, Python, JavaScript, and well-versed in Data Structures and Algorithms.
 #### 💬 Ask me about building backend systems and enterprise projects!
 #### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/onkarlapate27/)
